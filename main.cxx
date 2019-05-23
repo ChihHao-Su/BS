@@ -9,11 +9,13 @@ using std::string;
 int main(){
     string input = GetInput();
     int migaAge = GetMigaAge();
-    string GetMigaName = GetMigaName();
+    string sdfg = GetMigaName();
 
     cout<<input<<endl;
     cout<<migaAge<<endl;
-    cout<<GetMigaName<<endl;
+    cout<<sdfg<<endl;
+  cout<<"请输入一个参数"<<endl;
+  cin>>Wmtest("asdf")<<endl;
 
 }
 
