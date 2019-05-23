@@ -10,4 +10,11 @@ string GetMigaName(){
 string GetInput(){
     return "BS";
 }
+string Wmtest(string a){
+	if(a=="asdf"){
+	return "fdsa";
+	}else{
+	return a;
+}
+}
 
